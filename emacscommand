@@ -2,3 +2,52 @@ Emacs commands
 
 emacs -q -n - this opens a emacs inside the terminal and GUN at the same time
 
+alt-x(or)m-x - This command is used to run a command in the emacs. This will bring up a prompt where you can type in the name of the command to be run.
+
+alt-x-tab - This shows the list of all commands on the emacs
+
+dired - is basically a directory browser in side the emacs
+
+eshell - this is a built in shell in emacs
+
+tetris - It is a built in game in emacs
+
+python mode - all the syntax highlighting in this buffer changes the mode line also changes 
+
+major mode - Provides a funcnality buffer needed for a perticular buffer usually activated based on the extension of a file you open in that buffer.
+
+minor mode - this mode provides hopeful typical funcanality that isn't specific to the major mode.
+
+hl-line-mode - Which will cause the current line your curser is on in the file to be highlighted.
+
+Basic key bindings.
+
+C-c - capital letter (C) means  Hold the ctrl key and press the letter 'c'
+
+C-x C-s - Hold the Ctrl key and press 'x', then 's' while still holding the Ctrl.this is the command to saving a file
+
+C-x b - hold the Ctrl key and press 'x', then release the Ctrl and press 'b'
+
+M-x - hold the Alt key and press the letter 'x' ( you will see this often like M-x find-file)
+
+M-g C-s - Hold the Alt key  and press the letter 'g', release the Alt, hold Ctrl and press 's'
+
+Open and savefiles.
+
+C-x C-f - this command is uded for finding the file
+
+C-x C-s - this command is used for saving the files.
+
+C-x C-w - this is the write file command or duplicate it.
+
+C-x b - this is used to switch buffer.
+
+C-x C-b - this command will give a buffer list
+
+C-c - this command is used to copy the txt
+
+C-x - this command is used copy and delet the copyed txt
+
+C-spacebar C-w - to highlight the selected txt and Delete the selected text.
+
+
