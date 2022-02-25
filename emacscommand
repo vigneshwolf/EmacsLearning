@@ -48,6 +48,30 @@ C-c - this command is used to copy the txt
 
 C-x - this command is used copy and delet the copyed txt
 
-C-spacebar C-w - to highlight the selected txt and Delete the selected text.
+C-spacebar C-w - to highlight the selected txt and Delete the selected text and actually copy that txt.
+
+Ctrl-y - to paste that copied text
+
+CUA Mode - Is used to convert to copy,cut,paste commands in linux to windows command
+
+undo and redo
+
+Ctrl-_ - this is used for undoing the words that are deleted.
+an alternative for this is Ctrl-/.
+
+Ctrl-g -  Will reset (or) cancell that operation
+
+Ctrl-g Ctrl-_ - This command is used to redo
+
+Cancelling operation
+
+Alt-x dicribe-bindings - this command discribes all the command keys on emacs
+
+Alt-x describe-key - this command describes the key command on linux and explains its functionality.
+
+
+
+
+
 
 
